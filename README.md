@@ -95,12 +95,13 @@ This project helps in understanding:
 Pull requests are welcome. For major changes, please open an issue first to discuss improvements.
 
 
+### 👨‍💻 Developed By
+
+**Chaithanya**
+
+
 ## 📄 License
 
 This project is for educational purposes.
 
-
-### 👨‍💻 Developed By
-
-**Chaithanya**
 
