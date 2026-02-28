@@ -100,8 +100,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 **Chaithanya**
 
 
-## 📄 License
-
-This project is for educational purposes.
-
 
