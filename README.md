@@ -2,7 +2,6 @@
 
 Tip Time is a simple and elegant Android application that helps users quickly calculate tips based on service cost and tip percentage. It is built using **Kotlin** and **Jetpack Compose** as part of Android development practice.
 
-
 ## 📱 Features
 
 - 💵 Enter service cost
@@ -12,14 +11,12 @@ Tip Time is a simple and elegant Android application that helps users quickly ca
 - 🎨 Clean and responsive UI using Jetpack Compose
 - 📱 Supports modern Android devices
 
-
 ## 🛠️ Tech Stack
 
 - **Language:** Kotlin
 - **UI Toolkit:** Jetpack Compose
 - **IDE:** Android Studio
 - **Minimum SDK:** 21+
-
 
 ## 📂 Project Structure
 
@@ -32,7 +29,6 @@ TipTime/
 │   └── theme/
 └── AndroidManifest.xml
 ```
-
 
 ## 🧮 How It Works
 
@@ -63,11 +59,9 @@ git clone https://github.com/your-username/TipTime.git
 - Connect Android device or use Emulator
 - Click ▶ Run
 
-
 ## 📸 Screenshots
 
 (Add screenshots here after uploading images to your repo)
-
 
 ## 📚 Learning Outcomes
 
@@ -80,7 +74,6 @@ This project helps in understanding:
 - UI recomposition
 - Material Design 3 components
 
-
 ## 🔮 Future Improvements
 
 - Add split bill feature
@@ -89,15 +82,6 @@ This project helps in understanding:
 - Save previous calculations
 - Multi-language support
 
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss improvements.
-
-
 ### 👨‍💻 Developed By
 
 **Chaithanya**
-
-
-
